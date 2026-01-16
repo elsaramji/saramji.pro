@@ -1,0 +1,191 @@
+{
+  "profile": {
+    "name": {
+      "en": "Mahmoud Al-Saramji ",
+      "ar": "محمود السراميجي"
+    },
+    "title": {
+      "en": "Software Engineer & Mobile Application (Flutter)",
+      "ar": " (Flutter) مهندس برمجيات وتطبيقات جوال "
+    },
+    "email": "mahmoudelsarmegy@gmail.com",
+    "social": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/mahmoud-el-seramji/",
+        "icon": "fab fa-linkedin"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/elsaramji",
+        "icon": "fab fa-github"
+      }
+    ]
+  },
+  "hero": {
+    "headline": {
+      "en": "Building Products, Not Apps",
+      "ar": "نبني منتجات، لا تطبيقات"
+    },
+    "subheadline": {
+      "en": "building scalable, production-ready mobile applications using \nFlutter and Dart.",
+      "ar": "بناء تطبيقات الهاتف المحمول القابلة للتطوير والجاهزة للإنتاج باستخدام \nDart and Flutter."
+    },
+    "cta": {
+      "en": "View My Work",
+      "ar": "شاهد أعمالي"
+    },
+    "image": "https://avatars.githubusercontent.com/u/90051301?v=4"
+  },
+  "about": {
+    "title": {
+      "en": "About Me",
+      "ar": "عني"
+    },
+    "description": {
+      "en": "I’m a Mobile Application Developer focused on building market-driven mobile products, not just apps.\nI help businesses and startups transform ideas into scalable, high-performance mobile solutions that solve real problems and deliver measurable value",
+      "ar": "أنا مطوّر تطبيقات موبايل أركّز على بناء منتجات تخدم السوق فعليًا، وليس مجرد تطبيقات. أساعد الشركات وروّاد الأعمال على تحويل الأفكار إلى حلول موبايل قوية، قابلة للتوسع، وتقدّم قيمة حقيقية."
+    }
+  },
+  "education": {
+    "title": {
+      "en": "Education",
+      "ar": "التعليم"
+    },
+    "items": [
+      {
+        "degree": {
+          "en": "B.Sc. in Mathematics and Science",
+          "ar": "بكالوريوس في العلوم والرياضيات"
+        },
+        "institution": {
+          "en": "Sohag University",
+          "ar": "جامعة سوهاج"
+        },
+        "year": "2021-2025"
+      }
+    ]
+  },
+  "experience": {
+    "title": {
+      "en": "Work Experience",
+      "ar": "خبرة العمل"
+    },
+    "items": [
+      {
+        "role": {
+          "en": "Mobile Applications Developer ",
+          "ar": "مطور تطبيقات الهاتف المحمول"
+        },
+        "company": {
+          "en": "GraviLog",
+          "ar": "GraviLog"
+        },
+        "period": {
+          "en": "2025-2026",
+          "ar": "2025-2026"
+        },
+        "description": {
+          "en": "Developed and maintained production-ready Flutter mobile applications using Clean Architecture, \nwith a focus on scalability and maintainable codebases.",
+          "ar": "تطوير وصيانة تطبيقات Flutter للهواتف المحمولة الجاهزة للإنتاج باستخدام Clean Architecture، \nمع التركيز على قابلية التوسع وقواعد التعليمات البرمجية القابلة للصيانة."
+        }
+      }
+    ]
+  },
+  "services": {
+    "title": {
+      "en": "Services",
+      "ar": "الخدمات"
+    },
+    "items": [
+      {
+        "name": {
+          "en": "Create mobile apps using Flutter",
+          "ar": "إنشاء تطبيقات موبايل باستخدام Flutter"
+        },
+        "description": {
+          "en": "One Flutter app. Android & iOS. High performance.",
+          "ar": "تطبيق واحد يعمل على Android و iOS بكفاءة عالية."
+        }
+      }
+    ]
+  },
+  "projects": {
+    "title": {
+      "en": "Projects",
+      "ar": "المشاريع"
+    },
+    "items": [
+      {
+        "title": {
+          "en": "Doctor Appointment App",
+          "ar": "تطبيق موعد الطبيب"
+        },
+        "description": {
+          "en": "Streamlines the process of booking doctor appointments and facilitating patient-doctor \ncommunication.",
+          "ar": "تبسيط عملية حجز مواعيد الطبيب وتسهيل العلاقة بين المريض والطبيب  الاتصالات."
+        },
+        "tech": [
+          "Flutter",
+          "Dart",
+          "Kotlin",
+          "Rest Apis",
+          "Web Sockets "
+        ],
+        "image": "https://lh3.googleusercontent.com/pw/AP1GczN4yDRYIuJRpArmgNzbNOMWc3qf7-qzd2JXJlLeP-W4NPZXZM8PGXxvhLJ6r0JApPhWZX5UFQCq3gSs1HKhWR3XfYa1k9podCXZx9RMF1KW57tgphLa_ZNpNZ1oIJHjA-tREpBNaHYRBs3hTjszNNTn=w949-h544-s-no-gm",
+        "githubLink": "https://github.com/elsaramji/Doctor-Appointment",
+        "liveDemoLink": "https://drive.google.com/file/d/16t6lNsS4I3iejWIFy2h_QPO727QX27oT/view?usp=drive_link"
+      },
+      {
+        "title": {
+          "en": "Travel & Trips App",
+          "ar": "تطبيق السفر والرحلات"
+        },
+        "description": {
+          "en": "An intuitive application designed to help users organize travel plans, book trips, and  manage itineraries. ",
+          "ar": "تطبيق بديهي مصمم لمساعدة المستخدمين على تنظيم خطط السفر وحجز الرحلات  إدارة مسارات."
+        },
+        "tech": [
+          "Flutter",
+          "Rest Apia ",
+          "Payment ",
+          "Dart"
+        ],
+        "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2670&auto=format&fit=crop",
+        "githubLink": "https://github.com/elsaramji/Travel-App.git",
+        "liveDemoLink": "https://drive.google.com/file/d/1NRgMg7E9eJXNM35LpXGh3S5uzOFYv51Q/view?usp=drive_link"
+      }
+    ]
+  },
+  "contact": {
+    "title": {
+      "en": "Contact Me",
+      "ar": "اتصل بي"
+    },
+    "text": {
+      "en": "Interested in working together? Let's talk.",
+      "ar": "مهتم بالعمل معًا؟ لنتحدث."
+    },
+    "form": {
+      "nameLabel": {
+        "en": "Your Name",
+        "ar": "اسمك"
+      },
+      "emailLabel": {
+        "en": "Your Email",
+        "ar": "بريدك الإلكتروني"
+      },
+      "messageLabel": {
+        "en": "Message",
+        "ar": "الرسالة"
+      },
+      "btnLabel": {
+        "en": "Send Message",
+        "ar": "إرسال الرسالة"
+      },
+      "action": "https://formspree.io/f/xeeeejwq"
+    },
+    "whatsapp": "https://wa.me/+201067478640",
+    "linkedin": "https://www.linkedin.com/in/mahmoud-el-seramji/"
+  }
+}
