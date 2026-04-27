@@ -74,20 +74,38 @@
     "items": [
       {
         "role": {
-          "en": "Mobile Applications Developer ",
-          "ar": "مطور تطبيقات الهاتف المحمول"
+          "en": "Express Retail Advisor",
+          "ar": "مستشار مبيعات "
         },
         "company": {
-          "en": "GraviLog",
-          "ar": "GraviLog"
+          "en": "Etisalat and Egypt ",
+          "ar": "Etisalat and Egypt "
         },
         "period": {
-          "en": "2025-2026",
-          "ar": "2025-2026"
+          "en": "2026- Present ",
+          "ar": "2026- Present "
         },
         "description": {
-          "en": "Developed and maintained production-ready Flutter mobile applications using Clean Architecture, \nwith a focus on scalability and maintainable codebases.",
-          "ar": "تطوير وصيانة تطبيقات Flutter للهواتف المحمولة الجاهزة للإنتاج باستخدام Clean Architecture، \nمع التركيز على قابلية التوسع وقواعد التعليمات البرمجية القابلة للصيانة."
+          "en": "",
+          "ar": ""
+        }
+      },
+      {
+        "role": {
+          "en": "Intern Mobile Application Engineer ",
+          "ar": "مهندس تطبيقات جوال متدرب"
+        },
+        "company": {
+          "en": "Digital Egypt Pioneers Initiative - DEPI",
+          "ar": "Digital Egypt Pioneers Initiative - DEPI"
+        },
+        "period": {
+          "en": "2025-Present",
+          "ar": "2025-Present"
+        },
+        "description": {
+          "en": "",
+          "ar": ""
         }
       }
     ]
@@ -106,6 +124,16 @@
         "description": {
           "en": "One Flutter app. Android & iOS. High performance.",
           "ar": "تطبيق واحد يعمل على Android و iOS بكفاءة عالية."
+        }
+      },
+      {
+        "name": {
+          "en": "Create Creative Portfolio ",
+          "ar": "إنشاء ملف أعمال إبداعي"
+        },
+        "description": {
+          "en": "",
+          "ar": ""
         }
       }
     ]
