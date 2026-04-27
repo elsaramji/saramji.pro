@@ -10,7 +10,6 @@ const elements = {
     controls: document.querySelector('.controls'),
     hero: document.getElementById('hero'),
     about: document.getElementById('about'),
-   // education: document.getElementById('education'),
     experience: document.getElementById('experience'),
     services: document.getElementById('services'),
     projects: document.getElementById('projects'),
@@ -72,7 +71,6 @@ function renderAll() {
     renderNav();
     renderHero();
     renderAbout();
-    renderEducation();
     renderExperience();
     renderServices();
     renderProjects();
@@ -85,7 +83,7 @@ function renderNav() {
     elements.logo.textContent = getLocalizedText(state.data.profile.name);
 
     // Links
-    const sections = ['about', 'education', 'experience', 'services', 'projects', 'contact'];
+    const sections = ['about', 'experience', 'services', 'projects', 'contact'];
     const navHTML = sections.map(sec => {
         const title = state.data[sec]?.title ? getLocalizedText(state.data[sec].title) : sec;
         return `<a href="#${sec}">${title}</a>`;
@@ -120,26 +118,6 @@ function renderAbout() {
             <p style="text-align: center; max-width: 800px; margin: 0 auto; font-size: 1.1rem;">
                 ${getLocalizedText(about.description)}
             </p>
-        </div>
-    `;
-}
-
-function renderEducation() {
-    const { education } = state.data;
-    const itemsHTML = education.items.map(item => `
-        <div class="card timeline-item">
-            <h3>${getLocalizedText(item.degree)}</h3>
-            <h4>${getLocalizedText(item.institution)}</h4>
-            <span class="date">${item.year}</span>
-        </div>
-    `).join('');
-
-    elements.education.innerHTML = `
-        <div class="container">
-            <h2 class="section-title">${getLocalizedText(education.title)}</h2>
-            <div class="timeline">
-                ${itemsHTML}
-            </div>
         </div>
     `;
 }
