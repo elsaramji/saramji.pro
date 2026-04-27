@@ -2,11 +2,11 @@
   "profile": {
     "name": {
       "en": "Mahmoud Al-Saramji ",
-      "ar": "محمود السراميجي"
+      "ar": "محمود السيرميجي"
     },
     "title": {
-      "en": "Software Engineer & Mobile Application (Flutter)",
-      "ar": " (Flutter) مهندس برمجيات وتطبيقات جوال "
+      "en": "Software Engineer & Mobile & Web & desktop Application ",
+      "ar": "Mobile & Web & desktop Application  مهندس برمجيات وتطبيقات  "
     },
     "email": "mahmoudelsarmegy@gmail.com",
     "social": [
@@ -28,8 +28,8 @@
       "ar": "نبني منتجات، لا تطبيقات"
     },
     "subheadline": {
-      "en": "building scalable, production-ready mobile applications using \nFlutter and Dart.",
-      "ar": "بناء تطبيقات الهاتف المحمول القابلة للتطوير والجاهزة للإنتاج باستخدام \nDart and Flutter."
+      "en": "building scalable, production-ready  applications using \nFlutter , Dart , HTML , CSS and Javascript .",
+      "ar": "بناء تطبيقات الهاتف المحمول القابلة للتطوير والجاهزة للإنتاج باستخدام \nFlutter , Dart , HTML , CSS and Javascript ."
     },
     "cta": {
       "en": "View My Work",
@@ -43,8 +43,8 @@
       "ar": "عني"
     },
     "description": {
-      "en": "I’m a Mobile Application Developer focused on building market-driven mobile products, not just apps.\nI help businesses and startups transform ideas into scalable, high-performance mobile solutions that solve real problems and deliver measurable value",
-      "ar": "أنا مطوّر تطبيقات موبايل أركّز على بناء منتجات تخدم السوق فعليًا، وليس مجرد تطبيقات. أساعد الشركات وروّاد الأعمال على تحويل الأفكار إلى حلول موبايل قوية، قابلة للتوسع، وتقدّم قيمة حقيقية."
+      "en": "I’m a Software Engineer focused on building market-driven mobile products, not just apps.\nI help businesses and startups transform ideas into scalable, high-performance mobile solutions that solve real problems and deliver measurable value",
+      "ar": "أنا مهندس برمجيات أركّز على بناء منتجات تخدم السوق فعليًا، وليس مجرد تطبيقات. أساعد الشركات وروّاد الأعمال على تحويل الأفكار إلى حلول موبايل قوية، قابلة للتوسع، وتقدّم قيمة حقيقية."
     }
   },
   "education": {
@@ -55,14 +55,9 @@
     "items": [
       {
         "degree": {
-          "en": "B.Sc. in Mathematics and Science",
-          "ar": "بكالوريوس في العلوم والرياضيات"
-        },
-        "institution": {
-          "en": "Sohag University",
-          "ar": "جامعة سوهاج"
-        },
-        "year": "2021-2025"
+          "en": "B.Sc. in Information Technology Engineering",
+          "ar": "بكالوريوس في هندسة تكنولوجيا المعلومات"
+        }
       }
     ]
   },
@@ -130,6 +125,26 @@
         "name": {
           "en": "Create Creative Portfolio ",
           "ar": "إنشاء ملف أعمال إبداعي"
+        },
+        "description": {
+          "en": "",
+          "ar": ""
+        }
+      },
+      {
+        "name": {
+          "en": "Create Desktop Systems ",
+          "ar": "Create Desktop Systems "
+        },
+        "description": {
+          "en": "",
+          "ar": ""
+        }
+      },
+      {
+        "name": {
+          "en": "Create Modern Website ",
+          "ar": "Create Modern Website "
         },
         "description": {
           "en": "",
