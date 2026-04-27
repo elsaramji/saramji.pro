@@ -10,7 +10,7 @@ const elements = {
     controls: document.querySelector('.controls'),
     hero: document.getElementById('hero'),
     about: document.getElementById('about'),
-    education: document.getElementById('education'),
+   // education: document.getElementById('education'),
     experience: document.getElementById('experience'),
     services: document.getElementById('services'),
     projects: document.getElementById('projects'),
